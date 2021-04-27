@@ -1,0 +1,1 @@
+/home/jhonny/Documentos/TEC/2021/Semestre\ I/Sistemas\ Operativos/Tareas/Rust_client-server_chat-master/chat/server/target/debug/server: /home/jhonny/Documentos/TEC/2021/Semestre\ I/Sistemas\ Operativos/Tareas/Rust_client-server_chat-master/chat/server/src/main.rs
